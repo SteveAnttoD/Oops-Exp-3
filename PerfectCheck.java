@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PerfectCount{
+public class PerfectCheck{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a word or phrase: ");
@@ -39,3 +39,4 @@ public class PerfectCount{
         return ' ';
     }
 }
+
